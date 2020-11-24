@@ -1,3 +1,5 @@
+// Author: Sinaptec - Example: http://www.sinaptec.alomar.com.ar/2018/05/esp32-desde-cero-tutorial-2-pwm-touch.html
+
 #define LEDC_CHANNEL_0     0    // use first channel of 16 channels (started from zero)
 #define LEDC_TIMER_8_BIT   8    // use 8 bit precission for LEDC timer
 #define LEDC_BASE_FREQ     5000 // use 5000 Hz as a LEDC base frequency
